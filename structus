@@ -1,0 +1,5 @@
+/* Tipo boolean */
+
+typedef enum {FALSE, TRUE};
+
+
